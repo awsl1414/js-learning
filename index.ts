@@ -1,1 +1,0 @@
-console.log("欢迎使用 JavaScript 学习项目！");
